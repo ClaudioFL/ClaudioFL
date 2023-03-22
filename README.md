@@ -1,5 +1,5 @@
 Hi, I’m Claudio.
-I’m currently learning data structure at FSU
+I’m currently mojoring in computer science at FSU
 Reach me claudioflorio1@hotmail.com
 
 <!---
