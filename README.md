@@ -21,8 +21,6 @@
     <p>I'm always open to collaborate, discuss tech, or just chat! Reach out and let's connect. You can get in touch via:</p>
     <a href="mailto:claudioflorio1@hotmail.com">Mail</a>
 
-<p>Thank you for stopping by my profile! 🌟</p>
-
 </body>
 
 </html>
