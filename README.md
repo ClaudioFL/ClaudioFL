@@ -18,7 +18,7 @@
     <p>The world of technology is vast and ever-changing. I'm always on the hunt to learn new things im currently diving deep in the world of Unreal Engine and game development.</p>
 
 <h2>💌 Stay Connected:</h2>
-    <p>I'm always open to collaborate, discuss tech, or just chat! Reach out and let's connect. You can get in touch via:</p>
+    <p>I'm always open to collaborate, discuss tech, or just chat! Reach out and let's connect, you can get in touch via:</p>
     <a href="mailto:claudioflorio1@hotmail.com">Mail</a>
 
 </body>
