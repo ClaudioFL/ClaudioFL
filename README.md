@@ -12,7 +12,10 @@
     <p>I am driven by the challenge of translating real-world problems into tech-based solutions. Throughout my studies, I've learned that the true value of technology lies not just in its novelty, but in its application to everyday challenges.</p>
 
 <h2>🌐 Proficiencies:</h2>
-    <p>C++ HTML5 Java</p>
+    <p>C++ HTML5 Java </p>
+
+<h2>🌐 Learning:</h2>
+    <p>React UE5</p>
 
 <h2>🌱 Current Endeavors:</h2>
     <p>The world of technology is vast and ever-changing. I'm always on the hunt to learn new things im currently diving deep in the world of Unreal Engine and game development.</p>
