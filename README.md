@@ -2,7 +2,7 @@
 <body>
 
 <h1>Hello, I'm Claudio! 👋</h1>
-    <p>Studying Computer Science at Florida State University 🎓 & Exploring the Tech Realm</p>
+    <p>Studying Computer Science at Florida State University 🎓 and Exploring the Tech Realm</p>
     <p>Welcome to my GitHub! </p>
 
 <h2>👨‍💻 About Me:</h2>
