@@ -12,7 +12,7 @@
     <p>I am driven by the challenge of translating real-world problems into tech-based solutions. Throughout my studies, I've learned that the true value of technology lies not just in its novelty, but in its application to everyday challenges.</p>
 
 <h2>🌐 Proficiencies:</h2>
-    <p>C++ HTML5 Java </p>
+    <p>C++ HTML5 Java</p>
 
 <h2>🌐 Learning:</h2>
     <p>React UE5</p>
