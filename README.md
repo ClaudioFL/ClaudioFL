@@ -6,7 +6,7 @@
     <p>Welcome to my GitHub! </p>
 
 <h2>👨‍💻 About Me:</h2>
-    <p>Greetings! I'm Claudio, a computer science major from Florida State University with a love for computers. My academic journey has provided me with a foundation to pursue the endless opportunities that the tech world offers.</p>
+    <p>I'm Claudio, a computer science major from Florida State University with a love for computers. My academic journey has provided me with a foundation to pursue the endless opportunities that the tech world offers.</p>
 
 <h2>🔥 What I'm Passionate About:</h2>
     <p>I am driven by the challenge of translating real-world problems into tech-based solutions. Throughout my studies, I've learned that the true value of technology lies not just in its novelty, but in its application to everyday challenges.</p>
